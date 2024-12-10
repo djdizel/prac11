@@ -11,9 +11,9 @@ namespace prac11
         static void Main(string[] args)
         {
             //Задача 1.Определить количество элементов одномерного массива.
-            //int[] omas = { 1, 2, 3, 4, 5 };
-            //Console.WriteLine($"размер: {omas.Length}");
-            //Console.ReadLine();            
+            int[] omas = { 1, 2, 3, 4, 5 };
+            Console.WriteLine($"размер: {omas.Length}");
+            Console.ReadLine();
         }
     }
 }

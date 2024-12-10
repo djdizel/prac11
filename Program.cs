@@ -10,6 +10,12 @@ namespace prac11
     {
         static void Main(string[] args)
         {
+            //Задача 3.Найти максимальное и минимальное значение в массиве.
+            //int[] omas = { -1, 2, -3, 4, -5 };
+            //int max = omas.Max();
+            //int min = omas.Min();
+            //Console.WriteLine($"min = {min}, max = {max}");
+            //Console.ReadLine();
         }
     }
 }

@@ -10,6 +10,14 @@ namespace prac11
     {
         static void Main(string[] args)
         {
+            //Задача 8. Изменение размера массива.
+            //int[] omas = { -1, 2, -3, 4, -5 };
+            //Array.Resize(ref omas,10);
+            //foreach (int el in omas)
+            //{
+            //    Console.WriteLine(el);
+            //}
+            //Console.ReadLine();
         }
     }
 }
